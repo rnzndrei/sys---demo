@@ -11,4 +11,5 @@ int main(){
         << "Xyrelle Dominique" << endl;
 
     cout << endl << "Introduction of Members:" << endl;
+    cout << "Lyrus" << endl;
  }
