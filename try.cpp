@@ -12,4 +12,5 @@ int main(){
 
     cout << endl << "Introduction of Members:" << endl;
     cout << "Lyrus edit" << endl;
+    cout << "amaya" ;
  }
